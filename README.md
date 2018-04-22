@@ -9,7 +9,7 @@ This Program:
 3. Read a 16-bit number from the file 
 4. Display the number on one line as:
    1. A 16-bit binary number (16 bits must be printed-- i.e., include all the leading zeros)
-   2.  A 4-digit hexadecimal number  (all 4digitsmust be printed -- include leading zeros)
+   2.  A 4-digit hexadecimal number  (all 4 digits must be printed -- include leading zeros)
    3. The 5-bit unsigned base-10 integer extracted from bits 15-11 of the number
    4. The 1-bit value extracted from bit 10 of thenumber
    5. The 2-bit unsigned base-10 integer extracted from bits 9-8 of the number
